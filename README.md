@@ -21,10 +21,10 @@ I am a software engineer focused on building robust, high-performance systems fr
 
 ### 🔬 Featured Impact
 
-- **[Scientific Assistant @ Max Planck Institute](https://github.com/turonova/cryoCat):** Developed and maintained **Python** scripts for 3D data processing in biophysics research and engineered data parsing tools to ensure accurate experimental data.
-- **[Master's Thesis - Game Chomp](https://blog.huuthang.site):** Implemented a high-efficiency analysis of the Game Chomp using **C++**, discovering new mathematical patterns.
+- **[Scientific Assistant @ Max Planck Institute](https://github.com/turonova/cryoCat):** Developed and maintained **Python** scripts for 3D data processing in biophysics research and engineered data parsing tools to ensure accurate experimental data. [letter of recomendation](/letters/HuuThangLe_recommendation.pdf)
+- **[Master's Thesis - Game Chomp](https://blog.huuthang.site):** Implemented a high-efficiency analysis of the Game Chomp using **C++**, discovering new mathematical patterns. [letter of recomendation](/letters/2025-06%20LoR%20-%20Thang.pdf)
 - **[Full-Stack Blog Engine](https://blog.huuthang.site):** Architected an extensible engine using **Svelte 5** and **Rust**, featuring automated CI/CD with **GitHub Actions** and **Docker** containerization.
-- **[Enterprise Maintenance @ DXC Technology](https://www.dxc.com):** Developed backend features and RESTful APIs for enterprise clients, optimizing **.NET Core** applications.
+- **[Enterprise Maintenance @ DXC Technology](https://www.dxc.com):** Developed backend features and RESTful APIs for enterprise clients, optimizing **.NET Core** applications. [certificate of employment](/letters/Certificate%20of%20Employment.pdf)
 
 ---
 
